@@ -1,4 +1,11 @@
-### Hi there 👋
+<h2>Hi there 👋 This is Girish! </h2>
+
+<p><em>Software Enginner at <a href="https://firevisor.com/">FireVisor Systems</em></p>
+
+[![Linkedin: girishsharma](https://img.shields.io/badge/-girishsharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gsha001/)](https://www.linkedin.com/in/gsha001/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/letmerecall?label=follow&style=social)](https://github.com/letmerecall)
+![](https://komarev.com/ghpvc/?username=letmerecall&style=flat-square&color=dc143c)
+
 
 <!--
 **letmerecall/letmerecall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
