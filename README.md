@@ -3,8 +3,6 @@
 <p><em>Backend Developer at <a href="https://www.private-ai.com/">Private AI</em></p>
 
 [![Linkedin: girishsharma](https://img.shields.io/badge/-girishsharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gsha001/)](https://www.linkedin.com/in/gsha001/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/letmerecall?label=follow&style=social)](https://github.com/letmerecall)
-![](https://komarev.com/ghpvc/?username=letmerecall&style=flat-square&color=dc143c)
 
 
 <!--
