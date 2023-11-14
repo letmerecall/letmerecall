@@ -5,6 +5,14 @@
 [![Linkedin: girishsharma](https://img.shields.io/badge/-girishsharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gsha001/)](https://www.linkedin.com/in/gsha001/)
 
 
+<a href="https://www.linkedin.com/in/gsha001/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=letmerecall&show_icons=true" />
+</a>
+<a href="https://www.linkedin.com/in/gsha001/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letmerecall&hide=html,ruby" />
+</a>
+
+
 <!--
 **letmerecall/letmerecall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
