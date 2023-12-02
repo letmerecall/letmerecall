@@ -9,7 +9,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=letmerecall&show_icons=true" />
 </a>
 <a href="https://www.linkedin.com/in/gsha001/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letmerecall&hide=html,ruby" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letmerecall&hide=html,jupyter%20notebook" />
 </a>
 
 
